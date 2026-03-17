@@ -1,0 +1,24 @@
+{
+  "name": "@aeolus/cli",
+  "version": "0.0.10",
+  "description": "Agent BI CLI (stub)",
+  "keywords": [
+    "aeolus",
+    "agent",
+    "bi"
+  ],
+  "repository": {
+    "type": "https",
+    "url": "https://code.byted.org/dp/aeolus_fe/blob/master/packages/agent-aeolus"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "node-fetch": "2.6.7"
+  },
+  "bin": {
+    "aeolus-open": "bin/index.js"
+  },
+  "files": [
+    "bin"
+  ]
+}
